@@ -23,5 +23,5 @@ Results description:
 
 Code description:
 
-Python folder contains the code to extract materializations and combining rules and creating results
-RuleMiner folder contains a gradle project to extract PCA and HC instantiations which is used in the python scripts when combining rules. This was done so that all the instantiations were created using Neo4j embedded in JAVA.
+1. Python folder contains the code to extract materializations and combining rules and creating results
+2. RuleMiner folder contains a gradle project to extract PCA and HC instantiations which is used in the python scripts when combining rules. This was done so that all the instantiations were created using Neo4j embedded in JAVA.

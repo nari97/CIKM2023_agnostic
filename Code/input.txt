@@ -1,0 +1,171 @@
+Starting summary: 2023-05-03_13:32:32
+Are we here 2
+FB15K
+boxe
+Dataset: FB15K Model: boxe n_mat_0: 3305873
+complex
+Dataset: FB15K Model: complex n_mat_0: 12072510
+hake
+Dataset: FB15K Model: hake n_mat_0: 6841226
+hole
+Dataset: FB15K Model: hole n_mat_0: 16570438
+quate
+Dataset: FB15K Model: quate n_mat_0: 13465967
+rotate
+Dataset: FB15K Model: rotate n_mat_0: 8539942
+rotpro
+Dataset: FB15K Model: rotpro n_mat_0: 10019639
+toruse
+Dataset: FB15K Model: toruse n_mat_0: 5517053
+transe
+Dataset: FB15K Model: transe n_mat_0: 3311856
+tucker
+Dataset: FB15K Model: tucker n_mat_0: 22285183
+FB15K-237
+boxe
+Dataset: FB15K-237 Model: boxe n_mat_0: 4609255
+complex
+Dataset: FB15K-237 Model: complex n_mat_0: 15578703
+hake
+Dataset: FB15K-237 Model: hake n_mat_0: 9156909
+hole
+Dataset: FB15K-237 Model: hole n_mat_0: 18228775
+quate
+Dataset: FB15K-237 Model: quate n_mat_0: 12686300
+rotate
+Dataset: FB15K-237 Model: rotate n_mat_0: 11109090
+rotpro
+Dataset: FB15K-237 Model: rotpro n_mat_0: 24614132
+toruse
+Dataset: FB15K-237 Model: toruse n_mat_0: 7337479
+transe
+Dataset: FB15K-237 Model: transe n_mat_0: 3938350
+tucker
+Dataset: FB15K-237 Model: tucker n_mat_0: 27447884
+NELL-995
+boxe
+Dataset: NELL-995 Model: boxe n_mat_0: 11284277
+complex
+Dataset: NELL-995 Model: complex n_mat_0: 38792392
+hake
+Dataset: NELL-995 Model: hake n_mat_0: 45916215
+hole
+Dataset: NELL-995 Model: hole n_mat_0: 82259917
+quate
+Dataset: NELL-995 Model: quate n_mat_0: 64846256
+rotate
+Dataset: NELL-995 Model: rotate n_mat_0: 163951544
+rotpro
+Dataset: NELL-995 Model: rotpro n_mat_0: 116100530
+toruse
+Dataset: NELL-995 Model: toruse n_mat_0: 55158685
+transe
+Dataset: NELL-995 Model: transe n_mat_0: 27615520
+tucker
+Dataset: NELL-995 Model: tucker n_mat_0: 185301667
+WN18RR
+boxe
+Dataset: WN18RR Model: boxe n_mat_0: 43147872
+complex
+Dataset: WN18RR Model: complex n_mat_0: 49431727
+hake
+Dataset: WN18RR Model: hake n_mat_0: 55802775
+hole
+Dataset: WN18RR Model: hole n_mat_0: 46804202
+quate
+Dataset: WN18RR Model: quate n_mat_0: 50211070
+rotate
+Dataset: WN18RR Model: rotate n_mat_0: 35738995
+rotpro
+Dataset: WN18RR Model: rotpro n_mat_0: 28319677
+toruse
+Dataset: WN18RR Model: toruse n_mat_0: 25878699
+transe
+Dataset: WN18RR Model: transe n_mat_0: 17461679
+tucker
+Dataset: WN18RR Model: tucker n_mat_0: 98045576
+WN18
+boxe
+Dataset: WN18 Model: boxe n_mat_0: 7031524
+complex
+Dataset: WN18 Model: complex n_mat_0: 9223766
+hake
+Dataset: WN18 Model: hake n_mat_0: 8052048
+hole
+Dataset: WN18 Model: hole n_mat_0: 7309909
+quate
+Dataset: WN18 Model: quate n_mat_0: 8347795
+rotate
+Dataset: WN18 Model: rotate n_mat_0: 8237924
+rotpro
+Dataset: WN18 Model: rotpro n_mat_0: 5449178
+toruse
+Dataset: WN18 Model: toruse n_mat_0: 3773494
+transe
+Dataset: WN18 Model: transe n_mat_0: 3179818
+tucker
+Dataset: WN18 Model: tucker n_mat_0: 128893087
+YAGO3-10
+boxe
+Dataset: YAGO3-10 Model: boxe n_mat_0: 18431081
+complex
+Dataset: YAGO3-10 Model: complex n_mat_0: 32143527
+hake
+Dataset: YAGO3-10 Model: hake n_mat_0: 31374644
+hole
+Dataset: YAGO3-10 Model: hole n_mat_0: 56036087
+quate
+Dataset: YAGO3-10 Model: quate n_mat_0: 43142177
+rotate
+Dataset: YAGO3-10 Model: rotate n_mat_0: 220064581
+rotpro
+Dataset: YAGO3-10 Model: rotpro n_mat_0: 166403504
+toruse
+Dataset: YAGO3-10 Model: toruse n_mat_0: 39518905
+transe
+Dataset: YAGO3-10 Model: transe n_mat_0: 11127280
+tucker
+Dataset: YAGO3-10 Model: tucker n_mat_0: 39280497
+Hetionet
+boxe
+Dataset: Hetionet Model: boxe n_mat_0: 7225649
+complex
+Dataset: Hetionet Model: complex n_mat_0: 9319415
+hake
+Dataset: Hetionet Model: hake n_mat_0: 6335625
+hole
+Dataset: Hetionet Model: hole n_mat_0: 9857108
+quate
+Dataset: Hetionet Model: quate n_mat_0: 10732996
+rotate
+Dataset: Hetionet Model: rotate n_mat_0: 6780252
+rotpro
+Dataset: Hetionet Model: rotpro n_mat_0: 6454067
+toruse
+Dataset: Hetionet Model: toruse n_mat_0: 8469675
+transe
+Dataset: Hetionet Model: transe n_mat_0: 7733030
+tucker
+Dataset: Hetionet Model: tucker n_mat_0: 8219130
+BioKG
+boxe
+Dataset: BioKG Model: boxe n_mat_0: 9947824
+complex
+Dataset: BioKG Model: complex n_mat_0: 7156161
+hake
+Dataset: BioKG Model: hake n_mat_0: 4450018
+hole
+Dataset: BioKG Model: hole n_mat_0: 7280325
+quate
+Dataset: BioKG Model: quate n_mat_0: 9130358
+rotate
+Dataset: BioKG Model: rotate n_mat_0: 29166662
+rotpro
+Dataset: BioKG Model: rotpro n_mat_0: 55332642
+toruse
+Dataset: BioKG Model: toruse n_mat_0: 11140211
+transe
+Dataset: BioKG Model: transe n_mat_0: 3956177
+tucker
+Dataset: BioKG Model: tucker n_mat_0: 78108643
+Done: 2023-05-03_14:56:04
